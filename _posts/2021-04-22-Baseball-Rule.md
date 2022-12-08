@@ -10,27 +10,30 @@ tags:
 - theme
 ---
 
-# What is WhatATheme?
->You’ll find this post in your ***_posts*** directory. Go ahead and edit it and re-build the site to see your changes. >You can rebuild the site in many different ways, but the most common way is to run `bundle exec jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VfPa2c9kwhQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+# Baseball Rule
+If you don't understand or want a detailed explanation, please refer to the video. :
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i5fvsBGUz6Q?list=PLioYpz0_fWKqQTgL47xgUvC1KE8IsDgb2" title="[야구 경기규칙⚾] 야구 규칙 깔끔하게 정리해드립니다 | 야구, 너두 볼 수 있어" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
+## Baseball Rule -Basic 
 
-**WhatATheme** is a customizable Jekyll Portfolio theme which supports blogging. You can use this theme in order to create an elegant, fully responsive portfolio which includes
+**Baseball** is a game that in which two teams of nine players, led by a coach, are played in accordance with this rule under the supervision of one or more judges in a fenced stadium (if the designated hitter system is adopted, there will be 10 players).
 
-### Home Page -
-* A Hero section - A section where you can outsource an image which will work as the background for the particular section; it also will include your name and a tagline which can be easily manipulated via the _config.yml file.
-* An About section - A section where you can include your image and a 60 word paragraph which again you can easily manipulate using the _config.yml file.
-* A Contact section - A section where you can include 3 direct ways to contact<br>
-`Ping on Messenger`<br>
-`Send an Email`<br>
-`Tweet on Twitter`<br>
-The contact section will also include 10 different social media buttons for your audience to follow.<br>
-`Facebook`, `Twitter`, `Instagram`, `LinkedIn`, `GitHub`, `YouTube`, `Reddit`, `Behance`, `Dribbble` & `Spotify`.
+**for game,** the attacking team must have the batter become the runner and advance the runner, and the defense team's purpose is to prevent the opponent's batter from becoming the runner and to prevent the runner from advancing.
 
-### Blog -
-The blog includes a horizontal card list where the latest articles are fetched from the _posts folder automatically in top-down format. It also includes an instant search box which matches your query from the title, description & content of your post and shows the result as soon as you type.<br>
+**score** If the batter becomes a runner and reaches all bases normally, one point is scored for the team. Each team must score more than the other team to win, and at the end of the official game, the team that scores more points under this rule will be the winner.
+
+### Baseball Field -
+  * 어떤 내용을 쓸지는 아직 모름
+
+### Strike Zone
+![Strike Zone](https://cdn.spochoo.com/news/photo/202201/100524_201114_3256.jpg)
+
+If a batter fails to hit the ball when it enters the strike zone, 
+or if it becomes a foul, or if the ball passes through the zone as it is, 
+the number of strikes rises, and one out count rises when it becomes three strikes.
+
+
 The blog card includes
 * Post Title
 * 300 words from the content of the post
@@ -43,12 +46,6 @@ Projects will be showcased in a card-list format where each card will contain
 * An image related to the project
 * A Project Title
 * A Project Description of about 80 words
-
-### Footer -
-The footer includes
-* A small about the author widget which show the same `Author Image` as mentioned in the about section of the Home page which includes `Name of the Author`, `Around 75 words about the author`.
-* A more link widget which includes a link to any extra page that you've created and a `Subscribe via RSS` link.
-* A Recent posts widget which will include latest 3 posts.
 
 #### Extra Features -
 WhatATheme comes pre installed with
